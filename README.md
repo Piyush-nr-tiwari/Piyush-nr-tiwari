@@ -1,10 +1,12 @@
-
-<h3 align="center"><img scr="https://cdn.dribbble.com/users/962321/screenshots/2788167/media/a62fac23741ae92c9fcf2e1a556a406d.gif" width ="10000px"></h3>
-<h1 align="center">Hi there! I'm Piyush Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> </h1>
+<h5 align="center"><img width="600" heignt="600" src="https://assets.new.siemens.com/siemens/assets/api/uuid:13033b39-8570-40f2-80e5-4fc3b28bcb67/width:1125/crop:0:0,06111:1:0,88194/quality:high/graph-showing-the-mobility-analytics-cycle-.gif"></h5>
+<h1 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> Hi there! I'm Piyush Tiwari  </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
-<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+<h3 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h3>
+<br>
 
-- 👨‍💻 My Portfolio - **[Piyush Tiwari](https://piyushtiwari.dev.voyage/)**
+<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
+
+- 👨‍💻 My Portfolio - **[Piyush Tiwari](https://piyushtiwari.dev.voyage/)**                                 
 
 - 🌱 I’m currently learning **Data Analysis using Python, SQL and Machine Learning.**
 
@@ -13,6 +15,8 @@
 - 📧 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
 
 - 📜 Visit my Blog page at - **[Medium](https://medium.com/@piyush-nr-tiwari)**
+
+
 
 <br/>
 
