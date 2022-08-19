@@ -1,4 +1,5 @@
-![](https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif)
+
+![](https://cdn.dribbble.com/users/962321/screenshots/2788167/media/a62fac23741ae92c9fcf2e1a556a406d.gif)
 <h1 align="center">Hi there! I'm Piyush Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
 <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
