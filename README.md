@@ -1,18 +1,20 @@
-<h1 align="center">Hi there! I'm Piyush Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+<h1 align="center">Hi there! I'm Piyush Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
-## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+<p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
+
 - 👨‍💻 My Portfolio - **[Piyush Tiwari](https://piyushtiwari.dev.voyage/)**
+
 - 🌱 I’m currently learning **Data Analysis using Python, SQL and Machine Learning.**
 
 - 📫 How to reach me **piyush.nr.tiwari@gmail.com**
 
-- Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
+- 📫 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
 
 <br/>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Skills acquired:</p> 
 <p>
-   <a href="#"> <img src="https://img.shields.io/badge/HTML-green?style=for-the-badge&labelColor=white&logo=html5&logoColor=green" alt="Advanced Excel"/> </a> &nbsp;
+  ![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=grange" alt="SQL"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
    <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
