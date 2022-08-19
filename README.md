@@ -1,3 +1,4 @@
+![](https://i.pinimg.com/originals/97/ae/28/97ae288bc10481a0152460e9a3c5faeb.gif)
 <h1 align="center">Hi there! I'm Piyush Tiwari <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"> </h1>
 <h2 align="center">An Aspiring Data Analyst from Masai School </h2>
 <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/user-male-circle--v2.png"/> About Me </p> 
@@ -8,32 +9,29 @@
 
 - 📫 How to reach me **piyush.nr.tiwari@gmail.com**
 
-- 📫 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
+- 📧 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
+
+- 📜 Visit my Blog page at - **[Medium](https://medium.com/@piyush-nr-tiwari)**
 
 <br/>
 
 ## <p style="display:flex; align-items: center"> <img src="https://img.icons8.com/color/48/000000/source-code.png"/> Skills acquired:</p> 
 <p>
-  [Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&labelColor=black&logo=css3&logoColor=grange" alt="SQL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F" alt="JavaScript"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB" alt="React"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Redux-007acc?style=for-the-badge&labelColor=black&logo=redux&logoColor=007acc" alt="Redux"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material UI"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Nodejs-609857?style=for-the-badge&labelColor=black&logo=node.js&logoColor=609857" alt="Node JS"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&labelColor=black&logo=express&logoColor=2361DAFB" alt="Express"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongoDB&logoColor=white" alt="Mongo DB"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white" alt="My SQL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&labelColor=black&logo=git&logoColor=white" alt="Git"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white" alt="Heroku"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&labelColor=black&logo=netlify&logoColor=white" alt="Netlify"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&labelColor=black&logo=python&logoColor=white" alt="Python"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Ms - Excel"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/> </a> &nbsp;
+   <a href="#"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="mySQL"/> </a> &nbsp;
+  <a href="#"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="mySQL"/> </a> &nbsp;
+ 
 </p>
 <h3>📊 Github Stats</h3>
 <br/>
 <p align="center">
-   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=rshukla12&theme=dark" /> <br \>
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rshukla12&show_icons=true&locale=en&theme=dark"/>
+   <img align="center"  src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-nr-tiwari&theme=dark" /> <br \>
+   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Piyush-nr-tiwari&show_icons=true&locale=en&theme=dark"/>
 </p>
 <h3 align="center">
  Show some ❤️ by starring some of the repositories!
@@ -41,5 +39,5 @@
 <br>
 <h3 align="center"> 
   Visitor count <br>
-  <img src="https://profile-counter.glitch.me/rshukla12/count.svg" />
+  <img src="https://profile-counter.glitch.me/Piyush-nr-tiwari/count.svg" />
 </h3>
