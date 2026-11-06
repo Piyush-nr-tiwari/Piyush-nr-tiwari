@@ -42,9 +42,10 @@ class Piyush:
 <!-- ===================== STATS STRIP ===================== -->
 <div align="center">
 
-| 🧠 **4+** | 🖼️ **2,000+** | 🏆 **3** | 📜 **10** |
-|:---:|:---:|:---:|:---:|
-| Years in Data & AI | Images in my CV training set | Company awards | Certifications |
+<img src="https://img.shields.io/badge/YEARS_IN_DATA_%26_AI-4%2B-7AA2F7?style=for-the-badge&labelColor=1a1b26" alt="4+ years in Data and AI"/>
+<img src="https://img.shields.io/badge/CV_TRAINING_IMAGES-2%2C000%2B-bb9af7?style=for-the-badge&labelColor=1a1b26" alt="2,000+ CV training images"/>
+<img src="https://img.shields.io/badge/COMPANY_AWARDS-3-9ece6a?style=for-the-badge&labelColor=1a1b26" alt="3 company awards"/>
+<img src="https://img.shields.io/badge/CERTIFICATIONS-10-e0af68?style=for-the-badge&labelColor=1a1b26" alt="10 certifications"/>
 
 </div>
 
