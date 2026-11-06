@@ -1,91 +1,144 @@
-<h5 align="center"><img width="500" height="300" src="https://media3.giphy.com/media/JkVnfE54QdOMQBxmHg/giphy.gif?cid=ecf05e47yofd7cnbpbfq7ux65h6661xhokiz4hdrqwmpzmgd&rid=giphy.gif&ct=g"></h5>
-<h1 align="center"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80px"> I'm Piyush  </h1>
-<h2 align="center">An Aspiring Data Analyst from Masai School </h2>
-<h3 dir="auto"><img src="https://camo.githubusercontent.com/63371d36886ee658f5a97401f393e1ab1684b2fd3de674b8f5efc7d410b2a3d0/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f57556c706c634d704f43456d5447427442572f67697068792e676966" width="40" data-animated-image="" ></a> <strong>About Me:</strong></h3>
-<br>
+<h1 align="center">Hi 👋, I'm Piyush Tiwari</h1>
+<h3 align="center">Program Manager – Data Science | AI/ML · Generative AI · Analytics</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://static.wixstatic.com/media/2be1ce_864567900845418ebfd61e297637464d~mv2.gif">
-
-- 👨‍💻 My Portfolio - **[Piyush Tiwari](https://piyushtiwari.dev.voyage/)**                                 
-
-- 🌱 I’m currently learning **Data Analysis using Python, SQL and Machine Learning.**
-
-- 📫 How to reach me **piyush.nr.tiwari@gmail.com**
-
-- 📧 Connect with me - **[LinkedIn](https://www.linkedin.com/in/piyush-tiwari-987a4b187/)**
-
-- 📜 Visit my Blog page at - **[Medium](https://medium.com/@piyush-nr-tiwari)**
-
-
-
-<br/>
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/b429fd0344f4072885b19923f824d4616893261e9d7cc2afb62f85224caca070/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6a32704f476547594b65327843434b7766692f67697068792e676966" width="40" data-animated-image="" </a> <strong>Languages &amp; Tools:</strong></h2>
-<p>
-   <a href="#"> <img src="https://img.shields.io/badge/Advanced_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Ms - Excel"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql&logoColor=white" alt="mySQL"/> </a> &nbsp;
-   <a href="#"> <img src="https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="mySQL"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="mySQL"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="mySQL"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="mySQL"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="mySQL"/> </a> &nbsp;
-  <a href="#"> <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="mySQL"/> </a> &nbsp;
+<p align="center">
+  <a href="https://ds-piyush-portfolio.lovable.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://www.linkedin.com/in/piyushnrtiwari"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="mailto:piyush.nr.tiwari@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://medium.com/@piyush-nr-tiwari"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium"/></a>
+  <a href="https://www.hackerrank.com/piyush_nr_tiwari"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank"/></a>
 </p>
 
+---
 
+## 👨‍💻 About Me
+
+Data Science and AI professional with **4+ years** of experience across Machine Learning, Generative AI, Computer Vision, analytics, automation and program management, based in **Bengaluru, India**.
+
+I currently lead AI-driven product initiatives at **Parentof Solutions**, turning business and product requirements into executable technical programs. I enjoy working at the intersection of **ML/LLM engineering** and **stakeholder-facing delivery**.
+
+- 🔭 Working on: AI-powered assessment and recommendation systems, Computer Vision and LLM automation
+- 🌱 Exploring: Generative AI workflows, structured LLM outputs, GPU-based compute
+- 🗣️ Languages: English, Hindi, Marathi
+
+---
+
+## 🛠️ Skills & Tools
+
+**AI / ML**
+
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-4B8BBE?style=flat-square)
+![Generative AI](https://img.shields.io/badge/Generative_AI-8A2BE2?style=flat-square)
+![LLMs](https://img.shields.io/badge/LLM_APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-FF6F00?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-00B5AD?style=flat-square)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111F68?style=flat-square)
+
+**Data & Engineering**
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat-square&logo=duckdb&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![ETL](https://img.shields.io/badge/ETL_%26_Data_Pipelines-555555?style=flat-square)
+
+**Analytics & Visualization**
+
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
+
+**Management**
+
+![Program Management](https://img.shields.io/badge/Program_Management-0A66C2?style=flat-square)
+![Stakeholder Management](https://img.shields.io/badge/Stakeholder_Management-0A66C2?style=flat-square)
+
+---
+
+## 💼 Experience
+
+| Role | Company | Duration |
+|------|---------|----------|
+| **Program Manager – Data Science** | Parentof Solutions Pvt. Ltd. | Mar 2026 – Present |
+| **Senior Analyst – Data / AI** | eClerx Services Ltd. | Jul 2024 – 2026 |
+| **Data Scientist** | Parentof Solutions Pvt. Ltd. | Jan 2023 – Jun 2024 |
+| **Accounting Analyst** | P N Joshi & Co | Nov 2018 – Apr 2020 |
+
+<details>
+<summary><b>Highlights</b></summary>
 <br>
-<!--Code For Inserting Icon Of Languages and Tools-->
-<p align="center">  
-    <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
-    <a href="https://www.tableau.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/tableau-software.png"/></a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/microsoft-excel-2019.png"/> </a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/powerpoint" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-us/microsoft-365/word" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/ms-word.png"/></a>
-    <a style="padding-right:8px;" href="https://www.google.com/sheets/about/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/google-sheets.png"/></a>
-    <a style="padding-right:8px;" href="https://www.microsoft.com/en-in/sql-server/sql-server-downloads" target="_blank"> <img src="https://img.icons8.com/color/48/000000/microsoft-sql-server.png"/></a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a>
+
+**Program Manager – Data Science (Parentof Solutions)**
+- Lead cross-functional delivery across Data Science, Engineering, Product and business stakeholders.
+- Drive ML, GenAI, NLP, Computer Vision and recommendation-system initiatives.
+- Build data pipelines and analytics workflows with Python, SQL, MongoDB, DuckDB, Pandas and NumPy.
+- Coordinate technical hiring for Data Analyst and Full Stack Engineering roles.
+
+**Senior Analyst – Data / AI (eClerx)**
+- Worked on data-processing, automation and ML workflows for large datasets.
+- Contributed to the ZEUS platform migration and re-engineered modules for GPU-based compute.
+- Contributed to Generative AI and AI automation initiatives.
+- 🏆 Values Award – Excellence · Super Achiever Award · Rising Star Award
+
+**Data Scientist (Parentof Solutions)**
+- Built ML and NLP solutions for education and child-development products.
+- Worked on preprocessing, feature engineering, handwriting analysis and image segmentation.
+- Developed analytical logic for assessment, reporting, recommendation and curation workflows.
+
+</details>
+
+---
+
+## 🚀 Selected Projects
+
+| Project | What it does | Tech |
+|---------|--------------|------|
+| **AI-Powered Assessment & Recommendation Platform** | Combines assessment results, gameplay data, behavioral indicators and skill mappings into automated reports and recommendations | Python, SQL, MongoDB, DuckDB |
+| **Handwriting Analysis (Computer Vision)** | Instance-segmentation workflows scoring handwriting quality across multiple criteria, trained on 2,000+ images | YOLOv8, PyTorch |
+| **NLP & LLM Automation** | Automated data processing, classification and structured outputs using prompt-based pipelines | Transformers, DistilBERT, LLM APIs |
+| **Game Analytics & Scoring** | Scoring and analytics logic across multiple game types, linking gameplay events to skill levels | Python, Pandas, NumPy |
+
+---
+
+## 🎓 Education
+
+- **Post Graduate Program in Data Analytics & Data Science**, Masai School (Mar 2022 – Nov 2022)
+- **Bachelor of Commerce (B.Com)**, Shivaji University (Apr 2016 – Mar 2019)
+
+## 📜 Certifications & Recognition
+
+- 🥇 **Skill of the Year 2025 – Generative AI**, Technical University of Munich (with eClerx)
+- Data Analytics Virtual Experience, **Accenture**
+- Data Science Tools, **IBM** and **Cognitive Class**
+- Python 101 for Data Science, **Cognitive Class**
+- Data Visualization using Tableau and Introduction to R, **Great Learning**
+- Introduction to Data Analytics, **Simplilearn**
+- Master Data Management, **TCS iON**
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Piyush-nr-tiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush-nr-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top languages"/>
 </p>
 
 <p align="center">
-   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Piyush-nr-tiwari&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"> <br \>
+  <img src="https://streak-stats.demolab.com/?user=Piyush-nr-tiwari&theme=black-ice&hide_border=true&background=060A0CD0" alt="GitHub streak"/>
 </p>
 
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/6324b8a2d7c4e78c6271e5bdb479001f501fe1108cdd4a0563d5b08758feb0c4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f5a434e36463346416b7773794f47553252532f67697068792e676966" width="60" data-animated-image="" <strong>Github Stats:</strong></h2>
+<sub><b>Note:</b> Top languages reflect only my public code and not my experience or skill level.</sub>
 
-<!-- 1st DROP DOWN -->
+---
 
-<details>
-  <summary><g-emoji class="g-emoji" alias="bar_chart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ca.png">📊</g-emoji> <b>Github Readme Stats</b></summary>
- <br>
- <p align="center" dir="auto"><img width="430" align="center" src="https://github-readme-stats.vercel.app/api?username=Piyush-nr-tiwari&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="Piyush-nr-tiwari" >
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Piyush-nr-tiwari&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Piyush-nr-tiwari" /></p>
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-</details>
+<h3 align="center">📫 Let's connect: <a href="mailto:piyush.nr.tiwari@gmail.com">piyush.nr.tiwari@gmail.com</a></h3>
+<h3 align="center">⭐ Star a repo if you find it useful!</h3>
 
-<!-- 2nd DROP DOWN -->
-
-<details>
-  <summary><g-emoji="g-emoji" alias= "graph">📉<b>Github Profile Graph</b></summary>
-    <br>
-    <a href="https://github.com/samar4saeedkhan/github-readme-activity-graph"><img alt="Samar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Piyush-nr-tiwari&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-    </details>
-
-<h2 dir="auto"><img src="https://camo.githubusercontent.com/ec0df7b334d15078e980be8f26f35f1bd6f004eaa4a121db42fed361360c1817/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4c6e516a7057614f4e386e68723231764e572f67697068792e676966" width="40" data-animated-image="" </a> <strong>Reach out to me:</strong> </h2>
-
-<p align="left">
-<a href = "https://www.linkedin.com/in/piyush-tiwari-987a4b187/" ><img src="https://img.icons8.com/fluent/48/000000/linkedin.png" /></a>
-<a href = "https://github.com/Piyush-nr-tiwari" ><img src="https://img.icons8.com/windows/48/000000/github.png" /></a>
-<a href="mailto:piyush.nr.tiwari@gmail.com" ><img src="https://img.icons8.com/color/48/000000/gmail-new.png" /></a>
-<a href="https://www.hackerrank.com/piyush_nr_tiwari" ><img src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" width="44" height="44" /></a>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/Piyush-nr-tiwari/count.svg" alt="Visitor count"/>
 </p>
-
-
-<h3 align="center">
- Show some ❤️ by starring some of the repositories!
-</h3>
-<br>
-<h3 align="center"> 
-  Visitor count <br>
-  <img src="https://profile-counter.glitch.me/Piyush-nr-tiwari/count.svg" />
-</h3>
